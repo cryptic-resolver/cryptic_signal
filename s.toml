@@ -1,3 +1,7 @@
+[s]
+name = "sXXX"
+desc = "slave XXX"
+
 [sg]
 name = "SG"
 desc = "Signal Ground"
