@@ -1,0 +1,13 @@
+[rxd]
+name = "RxD"
+desc = "Received Data"
+see = 'TxD'
+
+[rts]
+name = "RTS"
+desc = "Request To Send"
+see = 'CTS'
+
+[ri]
+name = "RI"
+desc = "Ring Indicator"

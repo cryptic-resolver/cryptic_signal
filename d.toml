@@ -1,0 +1,11 @@
+[dtr]
+name = "DTR"
+desc = "Data Terminal Ready"
+
+[dcd]
+name = "DCD"
+desc = "Data Carrier Detect"
+
+[dsr]
+name = "DSR"
+desc = "Data Set Ready"

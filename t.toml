@@ -1,0 +1,4 @@
+[txd]
+name = "TxD"
+desc = "Transmitted Data"
+see = 'RxD'

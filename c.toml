@@ -1,0 +1,4 @@
+[cts]
+name = "CTS"
+desc = "Clear To Send"
+see = 'RTS'
